@@ -1,0 +1,27 @@
+.fullContainer{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+
+}
+.inputContainer{
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;;
+    border-radius: 5px;
+    width: 300px;
+}
+.fa-solid{
+    color: #f17126;
+}
+.bootInput{
+    width: 90%;
+    padding: 0.375rem 0rem;
+    border: none;
+    outline: none !important;
+    background: transparent;
+}
